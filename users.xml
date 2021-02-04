@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user id="1">
+        <login>login</login>
+        <password>password</password>
+    </user>
+    <user id="2">
+        <login>maciek</login>
+        <password>maciek123</password>
+    </user>
+    <user id="3">
+        <login>test</login>
+        <password>test123</password>
+    </user>
+    <user id="4">
+        <login>tomek</login>
+        <password>tomek123</password>
+    </user>
+    <user id="5">
+        <login>mac</login>
+        <password>mac123</password>
+    </user>
+    <user id="6">
+        <login>test1</login>
+        <password>test1</password>
+    </user>
+    <user id="7">
+        <login>test2</login>
+        <password>test2</password>
+    </user>
+    <user id="8">
+        <login>test3</login>
+        <password>test3</password>
+    </user>
+</users>
